@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Untitled RPG Game</title>
+		<link>https://williampettersson.eu/projectluna/</link>
+		<atom:link href="https://williampettersson.eu/projectluna/feed.xml" rel="self" type="application/rss+xml" />
+		<description>Updates about Untitled RPG Game</description>
+        <item>
+                <guid isPermaLink="false">2025-09-13</guid>
+                <title>2025-09-13</title>
+                <link>https://williampettersson.eu/projectluna/</link>
+                <description>
+                    <![CDATA[
+                        I have begun work on rewriting most of the current code to be more flexible (should make it easier to add new features) and more readable.<br>I have also created a <a target="_blank" href="https://williampettersson.eu/projectluna/feed.xml">RSS feed</a> for receiving these updates!
+                    ]]>
+                </description>
+            </item><item>
+                <guid isPermaLink="false">2024-10-08</guid>
+                <title>2024-10-08</title>
+                <link>https://williampettersson.eu/projectluna/</link>
+                <description>
+                    <![CDATA[
+                        This is were I'll post updates if anything of interest happens<br>
+                    ]]>
+                </description>
+            </item>
+    </channel>
+</rss>
